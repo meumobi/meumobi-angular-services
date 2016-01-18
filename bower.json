@@ -1,0 +1,21 @@
+{
+  "name": "meumobi-angular-toolkit",
+  "authors": [
+    "Victor Dias <victor.dias@meumobi.com>"
+  ],
+  "description": "Angular ToolKit for Hybrid apps built with PhoneGap/Cordova",
+  "main": "dist/js/meumobi-angular-toolkit.js",
+  "moduleType": [],
+  "keywords": [
+    "meumobi",
+    "angular",
+    "phonegap"
+  ],
+  "license": "MIT",
+  "homepage": "http://meumobi.com",
+  "private": true,
+  "dependencies": {
+    "angular-translate": "~2.8.1",
+    "angular": "~1.x"
+  }
+}
